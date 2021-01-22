@@ -1,12 +1,12 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const date = require(__dirname + "/date.js")
 
 // NODE
-// EJS
 const app = express();
-app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({extended: true}));
+
+// EJS
+app.set("view engine", "ejs");
 app.use(express.static("public"));
 
 app.get("/", function(req, res) {
@@ -34,6 +34,16 @@ app.post("/bmicalculator", function(req, res){
 const day = date.getDay();
 
 app.get ("/about", function(req, res) {
+    var today = new Date();
+
+    const options = {
+        weekday: "long",
+        month: "long",
+        day: "numeric"
+    };
+
+    var day = today.toLocaleDateString("en-US", options);
+
     res.render("about", {
         templateDay: day
     });
