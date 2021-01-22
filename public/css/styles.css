@@ -1,0 +1,30 @@
+html {
+  background-color: #e4e9fd;
+  background-image: -webkit-linear-gradient(65deg, #94c6ff 50%, #e4e9fd 50%);
+  min-height: 1000px;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 3rem;
+}
+
+p {
+  margin-bottom: 1rem;
+  font-size: 20px;
+  font-weight: 200;
+  color: #00204a;
+}
+
+p:last-child {
+    font-size: 1rem;
+    color: #41628d;
+}
+
+.about {
+  margin-bottom: 3rem;
+  margin-top: 5rem;
+  padding: 0 35rem;
+}
