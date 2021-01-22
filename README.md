@@ -1,8 +1,11 @@
 ﻿# KURIUS Node Workshop
 
 Hi, I'm Isra! 
+
 Instagram: @_israzahid
+
 LinkedIn: [Isra Zahid](https://www.linkedin.com/in/isra-zahid/)
+
 Website: [israzahid.live](https://israzahid.live/)
 
 ### What is Back-End Development?
