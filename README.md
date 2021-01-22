@@ -40,7 +40,7 @@ Website: [israzahid.live](https://israzahid.live/)
 
 ### Setting Up Your Environment
 - You'll need an IDE
-	- VSCode (my favourite)
+	- VSCode (my favourite and what I'll be using)
 	- Sublime
 	- Atom
 - Install Node
