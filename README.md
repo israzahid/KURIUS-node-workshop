@@ -8,6 +8,8 @@ Instagram: @_israzahid
 
 LinkedIn: [Isra Zahid](https://www.linkedin.com/in/isra-zahid/)
 
+Check out ByteSized: @bytesizedto
+
 ### What is Back-End Development?
 - Also known as 'server-side' development
 - How the site 'works'
