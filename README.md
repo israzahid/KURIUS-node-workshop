@@ -2,11 +2,11 @@
 
 Hi, I'm Isra! 
 
+Website: [israzahid.live](https://israzahid.live/)
+
 Instagram: @_israzahid
 
 LinkedIn: [Isra Zahid](https://www.linkedin.com/in/isra-zahid/)
-
-Website: [israzahid.live](https://israzahid.live/)
 
 ### What is Back-End Development?
 - Also known as 'server-side' development
