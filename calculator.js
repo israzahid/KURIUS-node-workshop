@@ -3,6 +3,8 @@ const bodyParser = require("body-parser");
 
 // NODE
 const app = express();
+// Special mode of bodyParser that we're going to be using to parse data that comes
+// from an HTML form
 app.use(bodyParser.urlencoded({extended: true}));
 
 // EJS
